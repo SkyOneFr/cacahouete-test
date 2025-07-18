@@ -1,0 +1,39 @@
+body {
+  font-family: 'Georgia', serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fdf8f3;
+  color: #333;
+}
+
+header {
+  background-color: #a67c52;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 15px;
+  color: white;
+  text-decoration: none;
+}
+
+.hero {
+  background-image: url('../images/hero.jpg');
+  background-size: cover;
+  padding: 100px 20px;
+  text-align: center;
+  color: white;
+}
+
+.menu, .intro, .form-section, .contact-info {
+  padding: 40px;
+}
+
+footer {
+  background-color: #a67c52;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
